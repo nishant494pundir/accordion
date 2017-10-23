@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Accordion</string>
+    <string name="cricket">Accordion</string>
+    <string name="fighter">Accordion</string>
+    <string name="football">Accordion</string>
+    <string name="ludo">Accordion</string>
+    <string name="templerun">Accordion</string>
+    <string name="pokemon">Accordion</string>
+
+</resources>
